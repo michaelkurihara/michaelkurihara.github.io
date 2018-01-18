@@ -11,6 +11,6 @@ labels:
 summary: My team won the Spring 2015 ICS 111 Chicken Herder Contest
 ---
 
-Hello There!
-
 <img class="ui medium right floated rounded image" src="../images/chickenHerderBegin.png">
+
+Hello There!
