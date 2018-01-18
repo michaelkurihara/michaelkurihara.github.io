@@ -1,5 +1,4 @@
-{
-  "basics": {
+{  "basics": {
     "name": "Michael Kurihara",
     "label": "Student",
     "picture": "https://michaelkurihara.github.io/images/portrait.jpg",
@@ -73,13 +72,13 @@
       "gpa": "",
       "courses": [
       ]
-    }.
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "History",
       "studyType": "B.A.",
       "startDate": "1994-08-01",
-      "endDate": "1997-05-"01,
+      "endDate": "1997-05-01",
       "gpa": "",
       "courses": [
       ]
@@ -91,7 +90,7 @@
       "position": "Instructional and Student Support Specialist",
       "website": "http://www.nursing.hawaii.edu/",
       "startDate": "2005-06-01",
-      "endDate": "Present"  
+      "endDate": "Present",
       "summary": "Student Information Specialist",
       "highlights": [
         "Maintain and update the UHM SONDH Student database"
@@ -101,8 +100,8 @@
       "company": "Hawaii Council for the Humanities",
       "position": "Program Officer",
       "website": "https://hihumanities.org/",
-      "startDate": "2003-06-01
-      "endDate": "2005-05-31
+      "startDate": "2003-06-01",
+      "endDate": "2005-05-31",
       "summary": "",
       "highlights": [
         "Promote, Develop, and Manage the Council's Regrant program",
@@ -111,7 +110,6 @@
     }
   ],
 
-  ],
   "awards": [
     {
       "title": "B+ Scholarship",
