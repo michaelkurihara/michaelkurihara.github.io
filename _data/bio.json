@@ -49,8 +49,9 @@
       "level": "",
       "keywords": [
         "C",
+        "Common Lisp",
         "Java",
-        "Common Lisp"
+        "perl"
       ]
     },
     {
@@ -75,7 +76,7 @@
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "History",
+      "area": "History: Modern Europe",
       "studyType": "B.A.",
       "startDate": "1994-08-01",
       "endDate": "1997-05-01",
@@ -112,18 +113,40 @@
 
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "The Thomas Murphy Award",
+      "date": "2000-2001",
+      "awarder": "UHM History Department",
+      "summary": "Best History Teaching Assistant"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Ralph S. Kuykendall Award",
+      "date": "1997",
+      "awarder": "UHM History Department",
+      "summary": "Award for best undergraduate paper"
+    },
+    {
+      "title": "Hawaii Phi Alpha Theta Award",
+      "date": "1997",
+      "awarder": "Hawaii Phi Alpha Theta Society",
+      "summary": "Award for best undergraduate paper presented"
     }
   ],
+
+  "Other Certifications": [
+    {
+      "certificate": "American Heart Association BLS CPR Instructor"
+    },
+    {
+      "certificate": "American Heart Association First Aid Instructor"
+    },
+    {
+      "certificate": "American Heart Association BLS CPR"
+    },
+    {
+      "certificate": "American Heart Association First Aid"
+    }
+  ],
+
   "references": [
     {
       "name": "Available upon request",
