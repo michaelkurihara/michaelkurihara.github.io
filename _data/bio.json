@@ -28,7 +28,7 @@
   },
   "interests": [
     {
-      "name": "history",
+      "name": "data visualization",
       "keywords": [
       ]
     },
@@ -39,6 +39,11 @@
     },
     {
       "name": "functional programming",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "history",
       "keywords": [
       ]
     }
