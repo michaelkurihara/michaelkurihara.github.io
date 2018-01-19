@@ -1,9 +1,9 @@
 ---
-layout: essay
-type: essay
+layout: project
+type: project
 image: images/chickenHerderEnd.png
 title: Chicken Herder
-permalink: projects/micromouse
+permalink: projects/chickenHerder
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
