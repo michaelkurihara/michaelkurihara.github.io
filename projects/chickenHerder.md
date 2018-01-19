@@ -18,4 +18,4 @@ their coop
 
 
 [You can see a video made by my teammate Ed White as part of the assignment.](https://youtu.be/bpXoYn5SS7I)
-<div class="ui embed" data-source="youtube" data-id="bpXoYn5SS7I" >
+
