@@ -1,9 +1,9 @@
 ---
-layout: project
-type: project
+layout: essay
+type: essay
 image: images/chickenHerderEnd.png
 title: Chicken Herder
-permalink: projects/chickenHeader
+permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
@@ -13,7 +13,9 @@ summary: My team won the Spring 2015 ICS 111 Chicken Herder Contest
 
 <img class="ui medium right floated rounded image" src="../images/chickenHerderBegin.png">
 
-My final ICS 111 project was create a simple AI designed to control drones 
+My final ICS 111 project was create a simple AI designed to control 5 drones programmed to herd 10 chickens back to
+their coop
 
 
 [You can see a video made by my teammate Ed White as part of the assignment.](https://youtu.be/bpXoYn5SS7I)
+<div class="ui embed" data-source="youtube" data-id="bpXoYn5SS7I" >
