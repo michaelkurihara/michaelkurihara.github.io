@@ -12,7 +12,7 @@ summary: My team won the Spring 2015 ICS 111 Chicken Herder Contest
 ---
 
 <a href="https://xkcd.com/208/">
-<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/perl_problems_2x.png" alt="xkcd #208">
+<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/regular_expressions.png" alt="xkcd #208">
 </a>
 
 Programming in Perl!
