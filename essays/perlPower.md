@@ -11,6 +11,6 @@ labels:
 summary: My team won the Spring 2015 ICS 111 Chicken Herder Contest
 ---
 
-<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/perl_problems_2x.png">
+<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/regular_expressions.png">
 
 Programming in Perl!
