@@ -1,25 +1,28 @@
 ---
 layout: project
 type: project
-image: images/programming_republic_of_perl-300px.png
-title: History Day Web Sites
+image: images/HIHD-logo.png
+title: History Day Web Sites & The Dream of Digital Humanities
 permalink: projects/hhd
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-18
 labels:
   - Digital Humanities
-summary:  History Day Web Site Projects
+summary:  History Day Web Site Projects & 
 ---
 
-
-[<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/regular_expressions.png" alt="xkcd #208">](https://xkcd.com/208/)
-
-
-My job at the UHM School of Nursing and Dental Hygiene Office of Student Services requires me to deal with a lot of csv files.  When I took ICS 111, I hoped that I would learn how to deal with them better.  For years I massaged the data into a more malleable format so that I could append the data into my Microsoft Access database.  Thankfully, we learned about parsing, but not how to deal with file systems in Windows.  Eventually, I figured out away to write a Java program to do almost everything I wanted, but not entirely.  Then I took Introduction to Scripting and learned just enough Perl and Regular Expressions.
+Once upon a time, I worked at the Hawaii Council for the Huamnities, which runs the Hawaii History Day Project.  Think of it like district and state level Science Fair competition, but with history.  Even before I worked at the Council, I was involved in History Day as a judge and resource for students.  And for many years after I continued to judge and serves a consultant.   Seven years ago, the National History Day office introduced a new medium:  Web Site.  When I first heard about this, I was really excited.  The 4 traditional mediums are:  Essay, Display Board, Media Presentation, and Performance.  I thought it would like combining the best elments of the Essay and Media presentation mediums.  Sadly, my expectations were a bit dashed.
 
 
-The first program I wrote for work using my new found Perl and Regular Expressions skills allowed me to “massage” all the nursing class roster data stored in a batch of csv files that I downloaded into a single csv file.  Before I learned to proram in Java, it would have taken me hours to “massage” all the data using Excel. While I could have updated by my Java version of my program to include regular expression, the Perl version of my program was shorter and easier to follow.  A simple Perl program does not require all the boiler plate code required by Java, nor the use of objects.  I continually amazed how much easier and faster it is prototype a program in Perl compared to Java.  In addition, the online documentation for Perl is much easier to follow.  Amazingly, it only took me a day to convert all my other Java files into Perl scripts, but that should not be surprising since Perl was initially developed to help parse text.  Perl’s creator, Larry Wall, developed Perl to specifically deal with complex text parsing that he was not able to do in the AWK programming language.  Since its inception, Perl’s been development has been guided by a programmer first philosophy.  What makes Perl truly exceptional is that it feels like a languages designed by programmers for programmers to get work done.  And I can think of no higher praise than that.
+The first year we tested out the Web Site Medium, it was a complete disaster. I know because the Council had me as a judge the web sites for every district run-off.  Instead of seeing the best of the Essay and Media formats, the Web Site was the new Display Board.  The problem with the display board is that it attracts the students who usually want to the do the bare minimum.  What I saw that first year was largely students who realized that this was even easier than Display Board because they did not have to purchase a poster board.  And for the next 3 years, I continued to judge web sites.  Things did get a little better once the teacher got more comfortable with medium.
 
 
-[***Here is a sample History Day Web Site Project about Tinker vs. Des moins.***](http://22570218.weebly.com/taking-a-stand.html)
+I realize now, though, part of the problem was me.  The term "digital humanities" was not even on my radar.  I really did not have a solid idea about what reallly made a good history web project.  I had seen many good web sites with informative text and links to primary resources, but really major difference was accessibility to information, and not how the medium itself could enhance the our understanding.  It was only at towards the end of ICS 111, when I became aware of the growing "digital humanities" movement. 
+
+
+[***Here is a sample History Day Web Site Project about Tinker vs. Des Moines.***](http://22570218.weebly.com/taking-a-stand.html)
+
+
 [***Here is a sample History Day Web Site Project about Alice Paul and the struggle for Women's Rights.***](http://25933634.weebly.com/)
+
+[***Here is a link to the National Archive's Educators Resource page***](https://www.archives.gov/education)
