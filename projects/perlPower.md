@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/programming_republic_of_perl-300px.png
 title: Perl Power
-permalink: projects/micromouse
+permalink: projects/perlPower
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
