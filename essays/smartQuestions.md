@@ -64,73 +64,6 @@ that you are posting on the appropriate forum, using a good header and tags, as 
 And of course, it is vital that you update the status of your question.  Whether you are adding to the
 post with new insights or even better alerting everyone that you now have the answer, so that you can:
 
->Help your community learn from the question. When you field a good question, ask yourself “How would the relevant documentation or FAQ have to change so that nobody has to answer this again?” Then send a patch to the document maintainer.---
-layout: essay
-type: essay
-title: "Stack Overflow Is Not Your Tech Support: A Question of Professionalism, Clarity, and Commitment"
-
-# All dates must be YYYY-MM-DD format!---
-layout: essay
-type: essay
-title: "Stack Overflow Is Not Your Tech Support: A Question of Professionalism, Clarity, and Commitment"
-
-# All dates must be YYYY-MM-DD format!
-date: 2018-01-25
-labels:
-  - Learning
-  - Computer Science
-  - How to ask for Help
-  - Professionalism
-  - Netiquette
----
-
-## Stack Overflow Is Not Your Tech Support
-
-Eric Steven Raymond's "How To Ask Questions The Smart Way" is an insightful and provocative guide on
-"how to ask questions in a way more likely to get you a satisfactory answer."  Many of Mr. Raymond's suggestions can be
-grouped in three categories:
-- Professionalism (i.e., showing courtesy, patience, post your question to the right forum, tact, and gratitude)
-- Clarity (i.e., clearly stating your problem, what you have done so far, and what you are trying to do)
-- Commitment (i.e., the effort you put into solving the problem on your own, writing your question, and following-up)
-
-
-## Of Professionalism
-
-In a perfect world, all of the Mr. Raymond's points would be self-evident.  The world, however, is not perfect, and even
-some of the most obvious tips are need repeating to hammer in their importance.  One of the most salient points he
-nails at the beginning of his essay is that you cannot
-"assume that the author of an informative web page wants to be your free consultant."  While he is speaking about
-writing directly to an individual in this example, it not a stretch to apply this idea to posting on forums.
-The key word here is "free" and it highlights a critical difference that threw me for a bit because I take civility and
-professionalism very seriously.
- 
-I work at UHM School of Nursing and Dental Hygiene's Office of Student Services.  As someone who might be the school's
-first contact with a new student, it is vital that I make a good impression.  Experience has taught me that there are in
-fact "stupid" questions as Mr. Raymond points out.  The difference is that I cannot call someone out for asking a
-question that I might have just answered or it is covered on the web site they just professed to have read.  I do
-understand the impulse to give a "RTFM" or "STFW" type response.  Worse still, I occasionally have to deal with people
-having a bad day, and realistically I cannot always give them the answer they want to hear.  So, for me, I often find
-reading posts on tech forums a little grating.
-  
-Sometimes it is the person asking the question, sometimes it is the people answering the question, and then there is the
-bickering between responders.  There is a lot behavior that seems "unprofessional" to me, but Mr Raymond's essay is not
-about turning to a consulting companies for tech support.  He is actually talking about reaching out to a community of
-volunteers whose motives and means of communications will be as varied and individuals that make up that community.  One
-of the more reassuring discoveries I made while researching this essay was that Meta Stack Overflow included questions
-that tackled was behavior of its members, and the community itself can take actions to help police itself.
-
-Even though the people on Stack Exchange and other forums may not be your personal tech support and they may not always
-behave in a way the you might feel is professional that is no excuse for you to behave in an unprofessional manner.
-Rather, it important to keep in mind that you are interacting with a community that you might one day join.
-
->The first thing to understand is that hackers actually like hard problems and good, thought-provoking questions about them. If we didn't, we wouldn't be here. If you give us an interesting question to chew on we'll be grateful to you; good questions are a stimulus and a gift. Good questions help us develop our understanding, and often reveal problems we might not have noticed or thought about otherwise. Among hackers, “Good question!” is a strong and sincere compliment.
-
-Questions, and we all face problems that we cannot solve on our own, are a way to interact with the hacker community.
-Our questions therefore not are a way to help ourselves, but to help others.  This why it is so important to make sure
-that you are posting on the appropriate forum, using a good header and tags, as well as being responsive to replies.
-And of course, it is vital that you update the status of you question.  Whether you are adding to the
-post with new insights or even better alerting everyone that you now have the answer, so that you can:
-
 >Help your community learn from the question. When you field a good question, ask yourself “How would the relevant documentation or FAQ have to change so that nobody has to answer this again?” Then send a patch to the document maintainer.
 
 Quite appropriately, the essay ends with a section on "How To Answer Questions in a Helpful Way."  All new hackers with
@@ -171,7 +104,7 @@ suspect something that the essay mentioned, but I was initially skeptical about:
 
 I can easily imagine that person asking this question is a student who just learned C and C++, and now it is time to
 learn Python.  Maybe I am right, maybe I am wrong, but the lack of clarity about that end game is can have
-unexpected consequences.
+unexpected consequences.  
 
 The first responder to this post got derailed and went so far off on a tangent that they did not actually answer the
 question because they assumed they knew what questioner wanted:
@@ -231,7 +164,7 @@ The problem of course is that it takes time to formulate a good question!  You n
 on your own so that you have a sense of the problem and you will have include what you have done so far in your question.
 You then need to think about the question, which is still part of the problem solving process as you might still be able
 to solve the problem on your own as you restate the problem for someone else.  Then you need to write your question, and
-of course proof read it!  As one of my professors used to say, you only write, when you re-write.
+of course proof read it!  As one my professors used to say, you only write, when you re-write.  
 
 A good question must clearly and concisely communicate: 
 - Context 
@@ -242,6 +175,7 @@ A good question must clearly and concisely communicate:
 The irony of course is that the for-loop question would not have been hard to salvage.  A better and simple way to ask
 this for a pointer to a good reference or an online Python training program, and then if you were still stuck, turn to
 the forum with a better question.
+
 
 ## A Good question!
 
@@ -276,13 +210,14 @@ freshclam 866 clamav    3wW  REG  259,1   100134 10486045 /var/log/clamav/freshc
 
 What I love about this question is that it is well named, it objective is clear, the problem is clear, and the error
 message is clear.  It is posted on the right on the Stack Exchange forum, with good tags:  malware, antivirus, clamav.
-The person who posed the even responded to a question in a reply and added the "EDIT:" section the
-post showing responsiveness.
+The person who posted the question responded to a follow up question in a reply and added the "EDIT:" section to the
+post showing responsiveness.  The irony of a good question is that there is so little say, since it say everything you
+need.
 
 
 ## “Make it clear you appreciate the time people spend helping you for free.”
 
-Of course, my favorite part of Mr. Raymond's essay, is the Disclaimer section, which precedes the Introduction:
+Of course, my favorite part of Mr. Raymond's essay, is the "Disclaimer" section, which precedes the Introduction:
 
 >Many project websites link to this document in their sections on how to get help. That's fine, it's the use we intended — but if you are a webmaster creating such a link for your project page, please display prominently near the link notice that we are not a help desk for your project!
 >
@@ -290,5 +225,5 @@ Of course, my favorite part of Mr. Raymond's essay, is the Disclaimer section, w
 >
 >If you're reading this document because you need help, and you walk away with the impression you can get it directly from the authors of this document, you are one of the idiots we are talking about. Don't ask us questions. We'll just ignore you. We are here to show you how to get help from people who actually know about the software or hardware you're dealing with, but 99.9% of the time that will not be us. Unless you know for certain that one of the authors is an expert on what you're dealing with, leave us alone and everybody will be happier.
 
-And to all the brave souls have risked being "pestered by idiots" by giving up their time to help their peers and the
+So, to all the brave souls who have risked being "pestered by idiots" and gave their time to help their peers and the
 next generation of hackers, ***Danke Sch&#246;n***!
