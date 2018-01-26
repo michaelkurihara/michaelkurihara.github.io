@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Stack Overflow Is Not Your Tech Support: A Question of Clarity, Commitment, and Professionalism"
+title: "Stack Overflow Is Not Your Tech Support: A Question of Professionalism, Clarity, and Commitment"
 
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-25
@@ -10,7 +10,7 @@ labels:
   - Computer Science
   - How to ask for Help
   - Professionalism
-  - Neti
+  - Netiquette
 ---
 
 ## Stack Overflow Is Not Your Tech Support
@@ -18,9 +18,26 @@ labels:
 Eric Steven Raymond's "How To Ask Questions The Smart Way" is an insightful and provocative guide on
 "how to ask questions in a way more likely to get you a satisfactory answer."  Many of Mr. Raymond's suggestions can be
 grouped in three categories:
-- Professionalism (i.e., showing courtesy, patience, post your question to the right forum, tact, and gratitude) - Clarity (i.e., clearly stating your problem, what you have done so far, and what you are trying to do) - Commitment (i.e., the effort you put into your project and your question) ## Of Professionalism: Many of Mr. Raymond's insights are self-evident, or at least they should be, but they stating to hammer in their importance.  He nails one of his most important the beginning of his essay, and it is that you cannot "assume that the author of an informative webpage wants to be your free consultant."  While he is speaking about writing directly to an individual in this example, it not a stretch to apply this idea to posting to forums.  Later, he reinforces this idea by saying:  "Make it clear you appreciate the time people spend helping you for free."  The key word here is "free."  Again, this obvious, but it highlights a critical difference that threw me because I take civility and professionalism seriously. I work at UHM School of Nursing and Dental Hygiene's Office of Student Services.  Key word:  "services."  As someone who might be the school's first contact with a new student, it is vital that I make a good impression.  Experience has taught me that there are in fact "stupid" questions as Mr. Raymond points out.  The difference is that I cannot call someone for asking a question that I might have just answered or it is covered on the web site they just professed to have read.   I do understand the impulse to give a "RTFM" or "STFW" type response.  Worse still, I occasionally have to
-deal with people having a bad day, and realistically I cannot always give them the answer they want to hear.  So, for
-me, I often find reading posts on tech forums a little grating.
+- Professionalism (i.e., showing courtesy, patience, post your question to the right forum, tact, and gratitude)
+- Clarity (i.e., clearly stating your problem, what you have done so far, and what you are trying to do)
+- Commitment (i.e., the effort you put into solving the problem on your own, writing your question, and following-up)
+
+
+## Of Professionalism
+
+Many of Mr. Raymond's insights are self-evident, or at least they should be, but they stating to hammer in their
+importance.  He nails one of his most important the beginning of his essay, and it is that you cannot
+"assume that the author of an informative webpage wants to be your free consultant."  While he is speaking about writing
+directly to an individual in this example, it not a stretch to apply this idea to posting to forums.  Later, he
+reinforces this idea by saying:  "Make it clear you appreciate the time people spend helping you for free."
+The key word here is "free."  Again, this obvious, but it highlights a critical difference that threw me because I take
+civility and professionalism seriously. I work at UHM School of Nursing and Dental Hygiene's Office of Student Services.
+Key word:  "services."  As someone who might be the school's first contact with a new student, it is vital that I make a
+good impression.  Experience has taught me that there are in fact "stupid" questions as Mr. Raymond points out.  The
+difference is that I cannot call someone for asking a question that I might have just answered or it is covered on the
+web site they just professed to have read.   I do understand the impulse to give a "RTFM" or "STFW" type response.
+Worse still, I occasionally have to deal with people having a bad day, and realistically I cannot always give them the
+answer they want to hear.  So, for me, I often find reading posts on tech forums a little grating.
   
 Sometimes it is the person asking the question, sometimes it someone "trying" to help, sometimes it is the bickering
 between responders.  There is a lot behavior that seems "unprofessional," but Mr Raymond's essay is not able turning to
@@ -32,9 +49,24 @@ reminds the reader:
 
 >There are also plenty of commercial companies you can contract with for help, both large and small. Don't be dismayed at the idea of having to pay for a bit of help! After all, if your car engine blows a head gasket, chances are you would take it to a repair shop and pay to get it fixed. Even if the software didn't cost you anything, you can't expect that support to always come for free.
 
-Something about the importance of asking questions.
+So, even though the people on Stack Exchange and other forums may not be your tech suppport and may not always behave
+in a way the you might feel is professional it is not an excuse for you to behave in an unprofessional manner, and an
+extremely important point that Mr. Raymond tires to drive home is that taking the time to formulate a good question is
+part of joining the community.
 
 >The first thing to understand is that hackers actually like hard problems and good, thought-provoking questions about them. If we didn't, we wouldn't be here. If you give us an interesting question to chew on we'll be grateful to you; good questions are a stimulus and a gift. Good questions help us develop our understanding, and often reveal problems we might not have noticed or thought about otherwise. Among hackers, “Good question!” is a strong and sincere compliment.
+
+Questions, and we all face problems that we cannot solve on our own, not only help ourselves, but they can help others.
+This why it is so important to make sure that you are posting on the appropriate forum, using a good title, and being
+responsive to replies and updating the status of you question when you either gain new insights to the problem or
+finally get the answer.  As Mr. Raymond  notes:
+
+>Help your community learn from the question. When you field a good question, ask yourself “How would the relevant documentation or FAQ have to change so that nobody has to answer this again?” Then send a patch to the document maintainer.
+
+I think it is quite appropriate that the essay ends with a section on "How To Answer Questions in a Helpful Way."
+All new hackers with the fortitude to stick with it will eventually become experienced, and in time they can give back
+to the community by answering questions so the cycle can continue as teh community continues to grow.
+
 
 ## Of Clarity and Commitment
 
@@ -49,14 +81,15 @@ with the following question under the header "for loop in Python":
 >
 >I can do this for k in range(1,c): in Python, which would be identical to for(int k = 1; k <= c ; k++) in C/C++.
 
-This simple and straight forward question, with one typo, was tagged simply with "python."  I happy to report no one posted a "RTFM" or
-a "STFW", but clearly this is a question that could have easily been uncovered by checking the official Python
-documentation web site.
+This simple and straight forward question, with one typo, was tagged simply with "python."  I happy to report no one
+posted a "RTFM" or a "STFW", but clearly this is a question that could have easily been uncovered by checking the
+official Python documentation web site.
 
 Now on first appearance, this seems like a fairly straight forward question, but it is actually problematic for the
 following 2 reasons:
 - What is the goal?  Is there a goal?
-- Python2 or Python3?  Vagueness and typos as a warning sign!
+- Python2 or Python3?  The warning signs!
+
 
 ## What is the goal? Is There a goal?
 
@@ -111,7 +144,7 @@ the original poser of the question was not one of the people who took part of th
 second responder.
   
 
-## Python2 or Python3?  Vagueness and typos as a warning sign!
+## Python2 or Python3?  The Warning Signs!
 
 In this case, the difference between Python2 and Python3 is not that great given the simplicity of the code, but the
 fact that question does not specify which version of Python bellies a greater problem.  How much thought did the
@@ -122,7 +155,7 @@ Much of Mr Raymond's tips focus on the importance of taking the time to write a 
 question important in terms of getting a the best answer, but it also a demonstration of the questioners commitment to
 work for the answer.  As a former teacher, I can tell you that one thing that always bothered me was when a student
 would say "I don't get it."  What is it that you are not getting?  Hysterics and panic are no guarantee that someone
-really wants to learn as opposed to being spoon fed the answer.  
+really wants to learn as opposed to being spoon fed the answer.
 
 The problem of course is that it takes time formulate a good question!  You need to spend trying to solve the problem on
 your own so that you have a sense of the problem and can in your question you can write about what you have done so far.
@@ -135,7 +168,7 @@ make sure that it clearly and concisely communicates:
 - What is the problem
 
 The irony of course is that this question would not have been hard to salvage.  A better and simple way to ask this
-question would have been to ask for a pointer to a good reference or an online Python training program.  
+question would have been to ask for a pointer to a good reference or an online Python training program.
 
 ## A Good question!
 
@@ -170,8 +203,10 @@ freshclam 866 clamav    3wW  REG  259,1   100134 10486045 /var/log/clamav/freshc
 ```
 
 What I love about this question is that it is well named, it objective is clear, the problems is clear, and the error
-message is clear.  The person who posed the even responded to a question in a reply and added the "EDIT:" section the
-post.
+message is clear.  It is posted on the right on the Stack Exchange, with good tags:  malware, antivirus, clamav.
+The person who posed the even responded to a question in a reply and added the "EDIT:" section the
+post showing responsiveness.
+
 
 ## Appreciation
 
@@ -184,4 +219,4 @@ Of course, my favorite part of Mr. Raymond's essay, is the Disclaimer section, w
 >If you're reading this document because you need help, and you walk away with the impression you can get it directly from the authors of this document, you are one of the idiots we are talking about. Don't ask us questions. We'll just ignore you. We are here to show you how to get help from people who actually know about the software or hardware you're dealing with, but 99.9% of the time that will not be us. Unless you know for certain that one of the authors is an expert on what you're dealing with, leave us alone and everybody will be happier.
 
 And to all the brave souls have risked being "pestered by idiots" by giving up their time to help their peers and the
-next generation of hackers, Danke Sch&#246;n!
+next generation of hackers, ***Danke Sch&#246;n***!
