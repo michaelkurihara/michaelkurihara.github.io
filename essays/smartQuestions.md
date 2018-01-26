@@ -67,22 +67,26 @@ a "STFW".  The two most interesting replies were:
 
 >You should also know that in Python, iterating over integer indices is bad style, and also slower than the alternative. If you just want to look at each of the items in a list or dict, loop directly through the list or dict.
 > I can do this for k in range(1,c): in Python, which would be identical to for(int k = 1; k <= c ; k++) in C/C++.
->
-> mylist = [1,2,3]
-> for item in mylist:
->     print item
->
-> mydict  = {1:'one', 2:'two', 3:'three'}
-> for key in mydict:
->     print key, mydict[key]
->
+
+```python
+mylist = [1,2,3]
+ for item in mylist:
+     print item
+
+ mydict  = {1:'one', 2:'two', 3:'three'}
+ for key in mydict:
+     print key, mydict[key]
+```
+
 > This is actually faster than using the above code with range(), and removes the extraneous i variable.
 >
 > If you need to edit items of a list in-place, then you do need the index, but there's still a better way:
->
+
+```python
 > for i, item in enumerate(mylist):
 >     mylist[i] = item**2
->
+```
+
 > Again, this is both faster and considered more readable. This one of the main shifts in thinking you need to make when coming from C++ to Python.
 
 Another response that actually answered the initial question and generated the most discussion replies from other
