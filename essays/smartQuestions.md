@@ -61,7 +61,7 @@ and what their norms are outside the work place can facilitate more successful i
 Questions, and we all face problems that we cannot solve on our own, are a way to interact with the hacker community.
 Our questions therefore not are a way to help ourselves, but to help others.  This why it is so important to make sure
 that you are posting on the appropriate forum, using a good header and tags, as well as being responsive to replies.
-And of course, it is vital that you update the status of you question.  Whether you are adding to the
+And of course, it is vital that you update the status of your question.  Whether you are adding to the
 post with new insights or even better alerting everyone that you now have the answer, so that you can:
 
 >Help your community learn from the question. When you field a good question, ask yourself “How would the relevant documentation or FAQ have to change so that nobody has to answer this again?” Then send a patch to the document maintainer.---
