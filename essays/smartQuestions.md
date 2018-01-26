@@ -25,55 +25,55 @@ grouped in three categories:
 
 ## Of Professionalism
 
-Many of Mr. Raymond's insights are self-evident, or at least they should be, but they stating to hammer in their
-importance.  He nails one of his most important the beginning of his essay, and it is that you cannot
-"assume that the author of an informative webpage wants to be your free consultant."  While he is speaking about writing
-directly to an individual in this example, it not a stretch to apply this idea to posting to forums.  Later, he
-reinforces this idea by saying:  "Make it clear you appreciate the time people spend helping you for free."
-The key word here is "free."  Again, this obvious, but it highlights a critical difference that threw me because I take
-civility and professionalism seriously. I work at UHM School of Nursing and Dental Hygiene's Office of Student Services.
-Key word:  "services."  As someone who might be the school's first contact with a new student, it is vital that I make a
-good impression.  Experience has taught me that there are in fact "stupid" questions as Mr. Raymond points out.  The
-difference is that I cannot call someone for asking a question that I might have just answered or it is covered on the
-web site they just professed to have read.   I do understand the impulse to give a "RTFM" or "STFW" type response.
-Worse still, I occasionally have to deal with people having a bad day, and realistically I cannot always give them the
-answer they want to hear.  So, for me, I often find reading posts on tech forums a little grating.
+In a perfect world, all of the Mr. Raymond's points would be self-evident.  The world, however, is not perfect, and even
+some of the most obvious tips are need repeating to hammer in their importance.  One of the most salient points he
+nails at the beginning of his essay is that you cannot
+"assume that the author of an informative web page wants to be your free consultant."  While he is speaking about
+writing directly to an individual in this example, it not a stretch to apply this idea to posting on forums.
+The key word here is "free" and it highlights a critical difference that threw me for a bit because I take civility and
+professionalism very seriously.
+ 
+I work at UHM School of Nursing and Dental Hygiene's Office of Student Services.  As someone who might be the school's
+first contact with a new student, it is vital that I make a good impression.  Experience has taught me that there are in
+fact "stupid" questions as Mr. Raymond points out.  The difference is that I cannot call someone out for asking a
+question that I might have just answered or it is covered on the web site they just professed to have read.  I do
+understand the impulse to give a "RTFM" or "STFW" type response.  Worse still, I occasionally have to deal with people
+having a bad day, and realistically I cannot always give them the answer they want to hear.  So, for me, I often find
+reading posts on tech forums a little grating.
   
-Sometimes it is the person asking the question, sometimes it someone "trying" to help, sometimes it is the bickering
-between responders.  There is a lot behavior that seems "unprofessional," but Mr Raymond's essay is not able turning to
-consulting companies for tech support.  He is actually talking about reaching out to a community of volunteers whose
-motives and means of communications will be as varied and individuals that make up that community.  One of the more
-reassuring discoveries I made while researching this essay was that Meta Stack Overflow included questions that tackled
-was behavior of its members, and the community itself can take actions to help police itself.  And, as Mr Raymond
-reminds the reader:
+Sometimes it is the person asking the question, sometimes it is the people answering the question, and then there is the
+bickering between responders.  There is a lot behavior that seems "unprofessional" to me, but Mr Raymond's essay is not
+about turning to a consulting companies for tech support.  He is actually talking about reaching out to a community of
+volunteers whose motives and means of communications will be as varied and individuals that make up that community.  One
+of the more reassuring discoveries I made while researching this essay was that Meta Stack Overflow included questions
+that tackled was behavior of its members, and the community itself can take actions to help police itself.
 
->There are also plenty of commercial companies you can contract with for help, both large and small. Don't be dismayed at the idea of having to pay for a bit of help! After all, if your car engine blows a head gasket, chances are you would take it to a repair shop and pay to get it fixed. Even if the software didn't cost you anything, you can't expect that support to always come for free.
-
-So, even though the people on Stack Exchange and other forums may not be your tech suppport and may not always behave
-in a way the you might feel is professional it is not an excuse for you to behave in an unprofessional manner, and an
-extremely important point that Mr. Raymond tires to drive home is that taking the time to formulate a good question is
-part of joining the community.
+Even though the people on Stack Exchange and other forums may not be your personal tech support and they may not always
+behave in a way the you might feel is professional that is no excuse for you to behave in an unprofessional manner.  
+Rather, it important to keep in mind that you are interacting with a community that you might one day join.
 
 >The first thing to understand is that hackers actually like hard problems and good, thought-provoking questions about them. If we didn't, we wouldn't be here. If you give us an interesting question to chew on we'll be grateful to you; good questions are a stimulus and a gift. Good questions help us develop our understanding, and often reveal problems we might not have noticed or thought about otherwise. Among hackers, “Good question!” is a strong and sincere compliment.
 
-Questions, and we all face problems that we cannot solve on our own, not only help ourselves, but they can help others.
-This why it is so important to make sure that you are posting on the appropriate forum, using a good title, and being
-responsive to replies and updating the status of you question when you either gain new insights to the problem or
-finally get the answer.  As Mr. Raymond  notes:
+Questions, and we all face problems that we cannot solve on our own, are a way to interact with the hacker community.
+Our questions therefore not are a way to help ourselves, but to help others.  This why it is so important to make sure
+that you are posting on the appropriate forum, using a good header and tags, as well as being responsive to replies.
+And of course, it is vital that you update the status of you question.  Whether you are adding to the
+post with new insights or even better alerting everyone that you now have the answer, so that you can:
 
 >Help your community learn from the question. When you field a good question, ask yourself “How would the relevant documentation or FAQ have to change so that nobody has to answer this again?” Then send a patch to the document maintainer.
 
-I think it is quite appropriate that the essay ends with a section on "How To Answer Questions in a Helpful Way."
-All new hackers with the fortitude to stick with it will eventually become experienced, and in time they can give back
-to the community by answering questions so the cycle can continue as teh community continues to grow.
+Quite appropriately, the essay ends with a section on "How To Answer Questions in a Helpful Way."  All new hackers with
+the fortitude to stick with it will eventually become experienced, and in time they can give back to the community by
+answering questions in turn.
 
 
 ## Of Clarity and Commitment
 
 As I was reading the essay, I thought about those "RTFM" and "STFW" questions, and immediately looked for something that 
-seem so simple and obvious, so I Googled how to write for loops in Stack Over Flow, and found: 
+seemed so simple and obvious that it also demanded such a response.  I Googled how to write for loops in Stack OverFlow,
+and found: 
 [https://stackoverflow.com/questions/4170656/for-loop-in-python](https://stackoverflow.com/questions/4170656/for-loop-in-python),
-with the following question under the header "for loop in Python":
+with the following question under the header "for loop in Python" with a python tag:
 
 >In C/C++, I can have the following loop for(int k = 1; k <= c ; k +=2)
 >
@@ -81,30 +81,29 @@ with the following question under the header "for loop in Python":
 >
 >I can do this for k in range(1,c): in Python, which would be identical to for(int k = 1; k <= c ; k++) in C/C++.
 
-This simple and straight forward question, with one typo, was tagged simply with "python."  I happy to report no one
-posted a "RTFM" or a "STFW", but clearly this is a question that could have easily been uncovered by checking the
-official Python documentation web site.
+I happy to report that no one posted a "RTFM" or a "STFW", which I am sure crossed the minds of my many who saw the
+post.  I was surprised that no one made a reference to the official Python documentation site.
 
-Now on first appearance, this seems like a fairly straight forward question, but it is actually problematic for the
+On first appearance, this seems like a fairly straight forward question, but it is actually problematic for the
 following 2 reasons:
 - What is the goal?  Is there a goal?
-- Python2 or Python3?  The warning signs!
+- Python2 or Python3? And Other Warning Signs!
 
 
 ## What is the goal? Is There a goal?
 
 One of the tips that I plan to follow from here on out is to include a description of my goal.  In this case, either the
-questioner wants to know the answer for the sake of knowing the answer, or it could for some unstated reasons...but 
-reading the post, I began to suspect something that the essay mentions, but I was initially skeptical about: 
+questioner wants to know the answer for the sake of knowing the answer, or it could for some other reason.  I began to
+suspect something that the essay mentioned, but I was initially skeptical about: 
 
 >Hackers are good at spotting homework questions; most of us have done them ourselves. Those questions are for you to work out, so that you will learn from the experience. It is OK to ask for hints, but not for entire solutions.
 
 I can easily imagine that person asking this question is a student who just learned C and C++, and now it is time to
-learn Python.  Maybe I am right, and may be I am wrong.  The lack of clarity about why the user wants to know can have
-unexpected consequences.
+learn Python.  Maybe I am right, and may be I am wrong, but the lack of clarity about that end game is can have
+unexpected consequences.  
 
-The first responder to this post got derailed by the question and went so far off on a tangent that they did not
-actually answer the question because they assumed they knew what questioner wanted:
+The first responder to this post got derailed and went so far off on a tangent that they did not actually answer the
+question because they assumed they knew what questioner wanted:
 
 >You should also know that in Python, iterating over integer indices is bad style, and also slower than the alternative. If you just want to look at each of the items in a list or dict, loop directly through the list or dict.
 
@@ -131,7 +130,7 @@ for i, item in enumerate(mylist):
 
 Now the first responder should have asked probably clarified what the questioner planned to do with a for loop first,
 but given the nature of the Python community and how zealous they can be about doing things the "Pythonic way" it is not 
-so surprising.
+at all surprising.
 
 The second responder to the post actually answered the question with a simple: 
 
@@ -140,41 +139,43 @@ for k in range(1,c+1,2):
 ```
 
 This of course spawned a fury of replies over the merits of the code, but at least it answered the question.  Sadly,
-the original poser of the question was not one of the people who took part of the conversation, much less thanked the
-second responder.
+the author of the question was not one of the people who took part of the conversation about for loops and efficiency in
+Python.  Nor did they thank the second responder, or any of the responders.
   
 
 ## Python2 or Python3?  The Warning Signs!
 
-In this case, the difference between Python2 and Python3 is not that great given the simplicity of the code, but the
-fact that question does not specify which version of Python bellies a greater problem.  How much thought did the
-questioner put into the post?  The typo: "How do do the same thing in Python?" is another sign of either laziness
-or indifference.
+In this case, the difference between Python2 and Python3 is not that big of a deal given the simplicity of the code, but
+the fact that question does not specify which version of Python bellies a greater problem.  How much thought and effort
+did author of the question put into their post?  The typo: "How do do the same thing in Python?" is another sign of
+either laziness or indifference.
 
-Much of Mr Raymond's tips focus on the importance of taking the time to write a good question.  Not only is a good
-question important in terms of getting a the best answer, but it also a demonstration of the questioners commitment to
-work for the answer.  As a former teacher, I can tell you that one thing that always bothered me was when a student
+Much of Mr. Raymond's tips focus on the importance of taking the time to write a good question.  Not only is a good
+question important in terms of getting the best answer, but it also demonstrates the authors commitment to working
+towards a solution.  As a former teacher, I can tell you that one thing that always bothered me was when a student
 would say "I don't get it."  What is it that you are not getting?  Hysterics and panic are no guarantee that someone
 really wants to learn as opposed to being spoon fed the answer.
 
-The problem of course is that it takes time formulate a good question!  You need to spend trying to solve the problem on
-your own so that you have a sense of the problem and can in your question you can write about what you have done so far.
-You then need to think about the question, and it seem odd, but in way this also part of the problem solving process
-because you might figure the problem in the process.  Once you formulate your question, then you actually to proof it to
-make sure that it clearly and concisely communicates: 
-- Context
-- Objective
+The problem of course is that it takes time to formulate a good question!  You need to spend trying to solve the problem
+on your own so that you have a sense of the problem and you will have include what you have done so far in you question.
+You then need to think about the question, which is still part of the problem solving process as you might still be able
+to solve the problem on your own as you restate the problem for someone else.  Then you need to write your question, and
+of course proof read it!  As one my professors usd to say, you only write, when you re-write.  
+
+A good question must clearly and concisely communicate: 
+- Context 
+- Objective(s)
 - What you have done so far
 - What is the problem
 
-The irony of course is that this question would not have been hard to salvage.  A better and simple way to ask this
-question would have been to ask for a pointer to a good reference or an online Python training program.
+The irony of course is that the for-loop question would not have been hard to salvage.  A better and simple way to ask
+this for a pointer to a good reference or an online Python training program, and then if you were still stuck, turn to
+the forum with a better question.
 
 ## A Good question!
 
-So, what is a good question?  One technical question that I faced when I first encountered when I started to use 
-Ubuntu was a problem updating my clamav.  Thankfully, the person who made this gave it a great header name, so that
-finding it on Google was a breeze:
+So, what is a good question?  One technical question that I faced when I  started to use Ubuntu was a problem updating
+my clamav.  Thankfully, the person who made this gave it a great header name, so that finding it on Google was a breeze:
 
 >clamav - ERROR: /var/log/clamav/freshclam.log is locked by another process?
 
@@ -202,13 +203,13 @@ COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
 freshclam 866 clamav    3wW  REG  259,1   100134 10486045 /var/log/clamav/freshclam.log
 ```
 
-What I love about this question is that it is well named, it objective is clear, the problems is clear, and the error
-message is clear.  It is posted on the right on the Stack Exchange, with good tags:  malware, antivirus, clamav.
+What I love about this question is that it is well named, it objective is clear, the problem is clear, and the error
+message is clear.  It is posted on the right on the Stack Exchange forum, with good tags:  malware, antivirus, clamav.
 The person who posed the even responded to a question in a reply and added the "EDIT:" section the
 post showing responsiveness.
 
 
-## Appreciation
+## “Make it clear you appreciate the time people spend helping you for free.”
 
 Of course, my favorite part of Mr. Raymond's essay, is the Disclaimer section, which precedes the Introduction:
 
