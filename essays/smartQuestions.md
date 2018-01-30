@@ -144,7 +144,7 @@ for k in range(1,c+1,2):
 
 This of course spawned a fury of replies over the merits of the code, but at least it answered the question.  Sadly,
 the author of the question was not one of the people who took part of the conversation about for loops and efficiency in
-Python.  Nor did they thank the second responder, or any of the responders.
+Python.  Nor did they thank the second responder, or anyone else who responded.
   
 
 ## Python2 or Python3?  The Warning Signs!
