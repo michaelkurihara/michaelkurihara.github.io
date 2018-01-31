@@ -9,6 +9,12 @@ labels:
   - Computer Science
 ---
 
+>An Old Joke:
+>When it comes to math, there are three kinds of people.
+>Those who can do math.
+>And those you cannot.
+
+
 When I signed up for ICS 111, I did it mostly out of boredom.  Thankfully, as an employee of the university, I can take classes.  Most of the classes I have were out of personal interests like German, Japanese, and music.  By taking an ICS class, I hoped that I might learn “something” to  make my job a little easier, but majoring in computer science was not even thought.   
 
 
