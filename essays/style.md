@@ -14,13 +14,13 @@ labels:
 
 ## \"The most durable thing in writing is style, and style is the most valuable investment a writer can make with his time.\" 
 
-Opined the great American author Raymond Chandler.  _**Style**_, a word overloaded with meaning and a concept overwrought with commentaries, weighs down all would be writers regardless of whether they are crafting prose or programming code.  That style matters seems almost facile 
+Opined the great American author Raymond Chandler.  _**Style**_, a word overloaded with meaning and a concept overwrought with commentaries, weighs heavily upon all would be writers regardless of whether they are crafting prose or programming code.  The art of writing 
 
 
 Writing prose a code is never a pure utilitarian function.   for one's code to simply work.  
 
 
-<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/code_quality_2_2x.png">(https://xkcd.com/1695/)
+[<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/code_quality_2_2x.png">](https://xkcd.com/1695/)
 
 
 
@@ -64,33 +64,12 @@ private double bearing(int destx, int desty) {
 		theY = ((ay - desty)*(ax - destx));
 	} 
 	
-	d = Math.toDegrees(q*(Math.atan2(theX
-function fib(max) {
-  const fSequence = [0, 1];
-  if (max === 0) {
-    return [0];
-  }
-  while (fSequence.length < max) {
-    const lastTwo = fSequence.slice(-2);
-    fSequence.push(lastTwo[0] + lastTwo[1]);
-  }
-  return fSequence;
-}
-
-console.log(fib(1));
-
-function fib2(max) {
-  const fibonacci = _.memoize(n => (n < 2 ? n : fibonacci(n - 1) + fibonacci(n - 2)));
-  return _.map(_.range(0, max, 1), n => fibonacci(n));
-}
-
-console.log(fib2(11));
-, theY)))+v;
+	d = Math.toDegrees(q*(Math.atan2(theX, theY)))+v;
 	return d;
 }
 ```
 	
-	
+
 
 ```java
 /**
