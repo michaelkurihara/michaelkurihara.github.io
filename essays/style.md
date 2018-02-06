@@ -12,14 +12,15 @@ labels:
   - Professionalism
 ---
 
-
-
 ## \"The most durable thing in writing is style, and style is the most valuable investment a writer can make with his time.\" 
 
-Opined the great American author Raymond Chandler.  Overloaded with meaning and bogged down by overwrought concept weighs upon all would be writers regardless of whether they are crafting prose or programming code.  Yet,     
+Opined the great American author Raymond Chandler.  _**Style**_, a word overloaded with meaning and a concept overwrought with commentaries, weighs down all would be writers regardless of whether they are crafting prose or programming code.  That style matters seems almost facile 
 
 
-<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/code_quality_2_2x.png">
+Writing prose a code is never a pure utilitarian function.   for one's code to simply work.  
+
+
+<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/code_quality_2_2x.png">(https://xkcd.com/1695/)
 
 
 
