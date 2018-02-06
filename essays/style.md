@@ -35,37 +35,21 @@ Writing prose a code is never a pure utilitarian function.   for one's code to s
 
 
 ```java
-// finds the degree that the drone is heading
-private double bearing(int destx, int desty) {
-	double d = 0;
-	int q = 1;
-	int v = 0;
-	int theX = 0;
-	int theY = 0;
-	int ax = getX();  // current position x
-	int ay = getY();  // current position y
+// re-targets drone if chicken moves off screen
+private void reTargeting() {
+  chicks.add(mine);  // returns the off-screen chicken to chicks arraylist
 
-	if(destx<=ax)
-		q = -1; // adjust for quadrant 1
-	else
-		q = 1;  // adjustment for quadrant 2
-
-	if(desty<=ay) {
-		// for quadrants 1 & 2
-		theX = ((destx - ax)*(destx - ax));  
-		theY = ((desty - ay)*(desty - ay));
-	} else {
-		if(destx<=ax)
-			v = 0; // adjust for quadrant 3
-		else
-			v = 90;  // adjustment for quadrant 4
-		// for quadrants 3 & 4			
-		theX = ((ax - destx)*(ax - destx));
-		theY = ((ay - desty)*(ax - destx));
-	} 
-	
-	d = Math.toDegrees(q*(Math.atan2(theX, theY)))+v;
-	return d;
+	if(!chickens[chicks.get(0)].cooped) {
+		mine=chicks.get(0);
+		chicks.remove(0);
+		if(borderGuard(chickens[mine].getX(),chickens[mine].getY())) {
+			desty = y + (chickens[mine].getY() - getY());
+			destx = x + (chickens[mine].getX() - getX());
+			whereTheCoopAt(mine);
+		} else {
+			watchDog();  // behavior when the only chickens are off screen
+		}
+	}	
 }
 ```
 	
