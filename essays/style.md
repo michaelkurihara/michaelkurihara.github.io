@@ -12,12 +12,15 @@ labels:
   - Professionalism
 ---
 
+
+
 ## \"The most durable thing in writing is style, and style is the most valuable investment a writer can make with his time.\" 
 
-Opined the great American author Raymond Chandler.  Whether writing prose, poetry, or code  
+Opined the great American author Raymond Chandler.  Overloaded with meaning and bogged down by overwrought concept weighs upon all would be writers regardless of whether they are crafting prose or programming code.  Yet,     
 
 
-The most durable thing in writing is style, and style is the most valuable investment a writer can make with his time.
+<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/code_quality_2_2x.png">
+
 
 
 >JavaScript is a sloppy language, but hidden deep inside there is an elegant, better language. JSLint helps you to program in that better language and to avoid most of the slop. JSLint will reject programs that browsers will accept because JSLint is concerned with the quality of your code and browsers are not. You should gladly accept all of JSLint's advice.
@@ -123,3 +126,5 @@ public V put(final K key, final V value) {
 }
 ```
 
+
+<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/good_code.png">
