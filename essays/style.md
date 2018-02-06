@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "\"The most durable thing in writing is style...\""
 
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-04
@@ -11,6 +11,23 @@ labels:
   - Code Style
   - Professionalism
 ---
+
+##"The most durable thing in writing is style, and style is the most valuable investment a writer can make with his time." 
+
+Opined the great American author Raymond Chandler.  Whether writing prose, poetry, or code  
+
+
+The most durable thing in writing is style, and style is the most valuable investment a writer can make with his time.
+
+
+>JavaScript is a sloppy language, but hidden deep inside there is an elegant, better language. JSLint helps you to program in that better language and to avoid most of the slop. JSLint will reject programs that browsers will accept because JSLint is concerned with the quality of your code and browsers are not. You should gladly accept all of JSLint's advice.
+>
+> \- [From JSLint Help Page](http://www.jslint.com/help.html)
+
+
+
+
+>JSLint will hurt your feelings. Side effects may include headache, irritability, dizziness, snarkiness, stomach pain, defensiveness, dry mouth, cleaner code, and a reduced error rate.
 
 
 ```java
@@ -43,10 +60,31 @@ private double bearing(int destx, int desty) {
 		theY = ((ay - desty)*(ax - destx));
 	} 
 	
-	d = Math.toDegrees(q*(Math.atan2(theX, theY)))+v;
+	d = Math.toDegrees(q*(Math.atan2(theX
+function fib(max) {
+  const fSequence = [0, 1];
+  if (max === 0) {
+    return [0];
+  }
+  while (fSequence.length < max) {
+    const lastTwo = fSequence.slice(-2);
+    fSequence.push(lastTwo[0] + lastTwo[1]);
+  }
+  return fSequence;
+}
+
+console.log(fib(1));
+
+function fib2(max) {
+  const fibonacci = _.memoize(n => (n < 2 ? n : fibonacci(n - 1) + fibonacci(n - 2)));
+  return _.map(_.range(0, max, 1), n => fibonacci(n));
+}
+
+console.log(fib2(11));
+, theY)))+v;
 	return d;
 }
-```	
+```
 	
 	
 
@@ -83,4 +121,5 @@ public V put(final K key, final V value) {
 
   return put(computeIndex(key), key, value);
 }
- ```
+```
+
