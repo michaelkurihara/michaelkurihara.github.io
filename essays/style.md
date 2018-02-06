@@ -12,7 +12,7 @@ labels:
   - Professionalism
 ---
 
-##"The most durable thing in writing is style, and style is the most valuable investment a writer can make with his time." 
+## \"The most durable thing in writing is style, and style is the most valuable investment a writer can make with his time.\" 
 
 Opined the great American author Raymond Chandler.  Whether writing prose, poetry, or code  
 
