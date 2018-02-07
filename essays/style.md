@@ -14,7 +14,9 @@ labels:
 
 ## \"The most durable thing in writing is style, and style is the most valuable investment a writer can make with his time.\" 
 
-Opined the great American author Raymond Chandler.  _**Style**_, a word overloaded with meaning and a concept overwrought with commentaries, weighs heavily upon all would be writers regardless of whether they are crafting prose or programming code.  The art of writing 
+Opined the great American author Raymond Chandler.  _**Style**_, a word overloaded with meaning and a concept overwrought with commentaries, weighs heavily upon all would be writers regardless of whether they are crafting prose or programming code.  In this case, Chandler used the word style style in the sense of the authorial voice.  The _je ne sais quoi_ that distinguishes one writer from another.  And while all writers must find their own voice, we cab generalize Chandler's advice think of style as structured pattern or a particular design, then we shift the egocentric meaning of _**style**_ to larger issues of function and form.  
+
+_**Style**_ can 
 
 
 Writing prose a code is never a pure utilitarian function.   for one's code to simply work.  
@@ -90,5 +92,21 @@ public V put(final K key, final V value) {
 }
 ```
 
+## Mystery of Good Code
 
-<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/good_code.png">
+Figuring out what is good code and how to write good code remains an unsolved mystery.  Humans are still learning.  We are still trying to solve this conundrum using the so-called Feynman.
+
+>The Feynman Algorithm:
+>
+>    1. Write down the problem.
+>    2. Think real hard.
+>    3. Write down the solution.
+>
+> [- Murray Gell-Mann](http://wiki.c2.com/?FeynmanAlgorithm) 
+
+Of course, as the joke goes, this is a lot easier if you have the brain of Richard Feynman.  For the rest of us, the writing of good code is much like the **xkcd** comic 884.
+
+[<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/good_code.png">](https://xkcd.com/844/)
+
+The vitrue is of style is that it gives a place to start.  As already noted, style changes.  As it should.  Style nonetheless gives us a place to start.   
+The greatest irony is that we now have AI that can write other AI programs, and one cannot help but wonder if the machines will beat us to the puch.
