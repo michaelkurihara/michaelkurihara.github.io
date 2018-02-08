@@ -16,13 +16,16 @@ labels:
 
 Opined the great American author Raymond Chandler.  _**Style**_, a word overloaded with meaning and a concept overwrought with commentaries, weighs heavily upon all would be writers regardless of whether they are crafting prose or programming code.  In this case, Chandler used the word style style in the sense of the authorial voice.  The _je ne sais quoi_ that distinguishes one writer from another.  And while all writers must find their own voice, we cab generalize Chandler's advice think of style as structured pattern or a particular design, then we shift the egocentric meaning of _**style**_ to larger issues of function and form.  
 
+
+## \"Whatever, it runs fine for now.\"
+
 _**Style**_ can 
 
 
 Writing prose a code is never a pure utilitarian function.   for one's code to simply work.  
 
 
-[<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/code_quality_2_2x.png" width="700px">](https://xkcd.com/1695/)
+[<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/code_quality_2_2x.png">](https://xkcd.com/1695/)
 
 
 
@@ -35,6 +38,17 @@ Writing prose a code is never a pure utilitarian function.   for one's code to s
 
 >JSLint will hurt your feelings. Side effects may include headache, irritability, dizziness, snarkiness, stomach pain, defensiveness, dry mouth, cleaner code, and a reduced error rate.
 
+
+
+## Warning JSLint will hurt your feelings.
+
+
+
+## CheckStyle
+
+My first run in with a linter came in ICS 212, the second programming class in the UHM ICS curriculum.  One of the TA convinced the professor that it was a good idea to use the CheckStyle to review our Java code.  Unfortunatley, we did not start using CheckStyle until the 4 week, so we had to adjust all our earlier work, which was a bit of pain.
+
+Code from my final project in ICS 111:
 
 ```java
 // re-targets drone if chicken moves off screen
@@ -54,7 +68,8 @@ private void reTargeting() {
 	}	
 }
 ```
-	
+
+The virtue of this code is that at least everythign is aligned.  Back in ICS 111, tabs were okay.  There is only 1 nested if and else statement.  There should be a space between "mine" and "chicks" on the "mine=chicks.get(0);" line.  It is a little odd that I call variable y and the method getY() on the same line, since both get teh sm get the same information.  tThe comments are not the best, but at least there are some comments.  The bigger issue is the names of all the variables and methods are just unhelpful.  Looking back on this code, even I barely remember what all the methods do.  
 
 
 ```java
