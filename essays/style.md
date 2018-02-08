@@ -22,7 +22,7 @@ _**Style**_ can
 Writing prose a code is never a pure utilitarian function.   for one's code to simply work.  
 
 
-[<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/code_quality_2_2x.png">](https://xkcd.com/1695/)
+[<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/code_quality_2_2x.png" width=75%>](https://xkcd.com/1695/)
 
 
 
@@ -108,5 +108,4 @@ Of course, as the joke goes, this is a lot easier if you have the brain of Richa
 
 [<img class="ui large right floated rounded image" src="https://imgs.xkcd.com/comics/good_code.png">](https://xkcd.com/844/)
 
-The vitrue is of style is that it gives a place to start.  As already noted, style changes.  As it should.  Style nonetheless gives us a place to start.   
-The greatest irony is that we now have AI that can write other AI programs, and one cannot help but wonder if the machines will beat us to the puch.
+The beauty of style is that it gives us a good place to start.  As noted styles and "best practices" will change as programming and the change in tandem.  One cannot help but wonder with the development of AI that can write programs, how will that effect the way we code.
