@@ -22,7 +22,7 @@ _**Style**_ can
 Writing prose a code is never a pure utilitarian function.   for one's code to simply work.  
 
 
-[<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/code_quality_2_2x.png" width=75%>](https://xkcd.com/1695/)
+[<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/code_quality_2_2x.png" width="70%">](https://xkcd.com/1695/)
 
 
 
