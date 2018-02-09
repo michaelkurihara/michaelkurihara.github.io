@@ -138,7 +138,7 @@ Figuring out what is good code and how to write good code remains an unsolved my
 >
 > [- Murray Gell-Mann](http://wiki.c2.com/?FeynmanAlgorithm) 
 
-Of course, as the joke goes, this is a lot easier if you have the brain of Richard Feynman.  For the rest of us, the writing of good code is much like the **xkcd** comic 884.
+Of course, as the joke goes, this is a lot easier if you have the brain of Richard Feynman.  For the rest of us, the writing of good code is much like the **xkcd** comic "Good Code."
 
 [<img class="ui large right floated rounded image" src="https://imgs.xkcd.com/comics/good_code.png">](https://xkcd.com/844/)
 
