@@ -14,20 +14,22 @@ labels:
 
 ## \"The most durable thing in writing is style, and style is the most valuable investment a writer can make with his time.\" 
 
-Opined the great American author Raymond Chandler.  _**Style**_, a word overloaded with meaning and a concept overwrought with commentaries, weighs heavily upon all would be writers regardless of whether they are crafting prose or programming code.  In this case, Chandler used the word style style in the sense of the authorial voice.  The _je ne sais quoi_ that distinguishes one writer from another.  And while all writers must find their own voice, we cab generalize Chandler's advice think of style as structured pattern or a particular design, then we shift the egocentric meaning of _**style**_ to larger issues of function and form.  
+Opined the great American author Raymond Chandler.  _**Style**_, a word overloaded with meaning and a concept overwrought with commentaries, weighs heavily upon all would be writers regardless of whether they are crafting prose or programming code.  In this case, Chandler used the word style style in the sense of the authorial voice.  The _je ne sais quoi_ that distinguishes one writer from another.  And while all writers must find their own voice, we cab generalize Chandler's advice think of style as structured pattern or a particular design, then we shift the egocentric meaning of _**style**_ to larger issues of function and form.  After all, the quality of writing can never be measured by simple utilitarian calculus.  
 
 
 ## \"Whatever, it runs fine for now.\"
 
-_**Style**_ can 
-
-
-Writing prose a code is never a pure utilitarian function.   for one's code to simply work.  
-
-
 [<img class="ui medium right floated rounded image" src="https://imgs.xkcd.com/comics/code_quality_2_2x.png">](https://xkcd.com/1695/)
 
+In Randall Munroe's brilliant _xkcd_ comic strip: ["Code Quality 2"](https://xkcd.com/1695/) (featured to the right), Pony-Tail once again reluctantly reviews Cueball's code.  What follows is another volley jibes at Cueball's code to which he  retorts:  "Whatever, it runs fine for now."  But can we trust it?  Will it always work?  Are their any unintended side-effects?  Does sloppyCoding == sloppyThinking?  If only Cueball followed up with his promise from the original ["Code Quality"](https://xkcd.com/1513/) strip and "read a style guide,' he would not have endure Ponytail's vicious and seemingly well-deserved barbs.
 
+Coding is hard enough already.  Trying to make sense of sloppy code is the proverbial "worst."  And if you wrote the code, then it is the worst plus humiliating.  Style can at least spare some of the shame.  Style is a set of ground rules designed to ensure consistency, clarity, and even potentially coding problems by restricting the usage of parts of f a language that might be a little dangerous to use.  Consider, the C programming language still has goto.  In the 2nd edition of the cannonical _The C Programming Language_, Brian Kernighan and Deniss Ritchie note:
+
+>C provides the infinitely-abusable goto statement, and labels to branch to.  Formally, the goto is never necessary, and in practice it is almost always easy to write code without it.  We have not used goto in this book.
+
+Just because a language supports something, does not mean 
+
+On the JSLint Help page
 
 >JavaScript is a sloppy language, but hidden deep inside there is an elegant, better language. JSLint helps you to program in that better language and to avoid most of the slop. JSLint will reject programs that browsers will accept because JSLint is concerned with the quality of your code and browsers are not. You should gladly accept all of JSLint's advice.
 >
