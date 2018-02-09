@@ -14,7 +14,7 @@ labels:
 
 ## \"The most durable thing in writing is style, and style is the most valuable investment a writer can make with his time.\" 
 
-Opined the great American author Raymond Chandler.  _**Style**_, a word overloaded with meaning and a concept overwrought with commentaries, weighs heavily upon all would be writers regardless of whether they are crafting prose or programming code.  In this case, Chandler used the word style style in the sense of the authorial voice.  The _je ne sais quoi_ that distinguishes one writer from another.  And while all writers must find their own voice, we cab generalize Chandler's advice think of style as structured pattern or a particular design, then we shift the egocentric meaning of _**style**_ to larger issues of function and form.  After all, the quality of writing can never be measured by simple utilitarian calculus.  
+Opined the great American author Raymond Chandler.  _**Style**_, a word overloaded with meaning and a concept overwrought with commentaries, weighs heavily upon all would be writers regardless of whether they are crafting prose or programming code.  In this case, Chandler used the word style style in the sense of the authorial voice.  The _je ne sais quoi_ that distinguishes one writer from another.  And while all writers must find their own voice, we cab generalize Chandler's advice think of style as structured pattern or a particular design, then we shift the egocentric meaning of _**style**_ tS larger issues of function and form.  After all, the quality of writing can never be measured by simple utilitarian calculus.  
 
 
 ## \"Whatever, it runs fine for now.\"
@@ -44,7 +44,7 @@ Just because a language supports something, does not mean one should use it.  Th
 
 
 
-## CheckStyle
+## CheckStyle or how to make sure your code is not [\"like a salad recipe written by a corporate lawyer using a phone autocorrect that only knew Excel formulas.\"](https://xkcd.com/1513/)
 
 My first run in with a linter came in ICS 212, the second programming class in the UHM ICS curriculum.  One of the TA convinced the professor that it was a good idea to use the CheckStyle to review our Java code.  Unfortunatley, we did not start using CheckStyle until the 4 week, so we had to adjust all our earlier work, which was a bit of pain.
 
