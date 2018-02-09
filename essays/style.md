@@ -33,17 +33,11 @@ Just because a language supports a feature, it does not always mean we should us
 >
 > \- [From JSLint Help Page](http://www.jslint.com/help.html)
 
-
-## Warning JSLint will hurt your feelings.
-
-JSLint makes no apologies, warning a would-be user that:   
+JSLint makes no apologies, and goes far as to warn a would-be user that:   
 
 >JSLint will hurt your feelings. Side effects may include headache, irritability, dizziness, snarkiness, stomach pain, defensiveness, dry mouth, cleaner code, and a reduced error rate.
 
-
-
-
-
+This probably true for all Linters and any style guide that you do not write yourself (and maybe even then).
 
 ## CheckStyle or how to make sure your code is not [\"like a salad recipe written by a corporate lawyer using a phone autocorrect that only knew Excel formulas.\"](https://xkcd.com/1513/)
 
@@ -92,9 +86,24 @@ public V put(final K key, final V value) {
 
 Looking back, I am still not satisfied with all my comments, especially the one for the method itself.  What I am happy learned from CheckStyle was the importance of the use of keyword final.  After I started using final in Java, I never had accidental assignment vs equality check again.  Getting used to always using {} with ifs was another easy adjustment and one that paid off course you never knew when you might want to add more lines following your conditionals.  
 
-One of my happiest moment was when I showed some friends my 211 code, and they could believe the difference how I coded in ICS 211 as opposed to ICS 111.  In all truth, my only real complaint from CheckStyle is why didn not use it in ICS 111 since were using the Eclipse IDE even then.  
+One of my happiest moments while taking ICS 211 was when I showing some friends my code.  They could not believe change in quality, and in just one semester to boot!  My only real complaint from CheckStyle is why didnot use it in ICS 111 since were using the Eclipse IDE even then.  It would have been helpful.  
 
-Code from my final project in ICS 111:
+The code below is from the first of three projects from ICS 111:
+
+```java
+		// plays- soundName1 position
+		public void playKey1() {
+			if(play==true){
+			keyNote1.stop(); // resets play point
+			keyNote1.play();
+			scaling();
+			}
+		}
+```
+
+For reasons I cannot recall, this method was over-indented by one whole level and for some reason, I left all code within the if {} at the same level as if itself.  How absolutely horrifying.  CheckStyle could have saved me from that.  The great thing about CheckStyle and most linters is that you can set your own style, and a style guide could have been written for students just learning to code.
+
+By my third ICS 111 project, my code look this: 
 
 ```java
 // re-targets drone if chicken moves off screen
@@ -115,9 +124,7 @@ private void reTargeting() {
 }
 ```
 
-The virtue of this code is that at least everything is aligned.  Back in ICS 111, tabs were okay.  There is only 1 nested if and else statement.  There should be a space between "mine" and "chicks" on the "mine=chicks.get(0);" line.  It is a little odd that I call variable y and the method getY() on the same line, since both get teh sm get the same information.  tThe comments are not the best, but at least there are some comments.  The bigger issue is the names of all the variables and methods are just unhelpful.  Looking back on this code, even I barely remember what all the methods do.  
-
-
+The virtue of this code is that at least everything is aligned.  There is only 1 nested if and else statement.  There should be a space between "mine" and "chicks" on the "mine=chicks.get(0);" line.  It is a little odd that I call variable y and the method getY() on the same line.  The comments are not the best, but at least there are some comments.  The bigger issue is the names of all the variables and methods are just unhelpful.  This another important limit to any linter.  Naming things is hard, and there's no linter that can tell if you name is a good one or not.  The problems with these names they are not helpful.  Besides getX() and getY(), whereTheCoopAt and watchDog do not really describe what the methods do.  I wrote watchDog and one of teammates wrote the ingenious whereTheCoopAt.  At the time, I thought both names were pretty clever, but now they just too clever by half as the clich&#233 goes.
 
 ## Mystery of Good Code
 
