@@ -61,16 +61,16 @@ The parent div governs a centered aligned three column grid.  What I mean is wha
 I learned today a lesson that I will not soon forget.  I spent well over 10 minutes trying to center the bottom elements a web page.  If we just read the Semantic UI code using natural language, then code below should work.  
 
 ````html
-<!--<div class="ui centered aligned borderless inverted menu">-->
-  <!--<div class="item"><i class="phone icon"></i>+1-808-955-7383</div>-->
-  <!--<div class="item"><i class="mail icon"></i>Email Us</div>-->
-  <!--<div class="item"><i class="home icon"></i>280 Beachwalk, Honolulu, HI 96815</div>-->
-  <!--<div class="item"><i class="twitter icon"></i></div>-->
-  <!--<div class="item"><i class="facebook f icon"></i></div>-->
-  <!--<div class="item"><i class="instagram icon"></i></div>-->
-  <!--<div class="item"><i class="pinterest icon"></i></div>-->
-  <!--<div class="item"><i class="tripadvisor icon"></i></div>-->
-<!--</div>-->
+<div class="ui centered aligned borderless inverted menu">
+  <div class="item"><i class="phone icon"></i>+1-808-955-7383</div>
+  <div class="item"><i class="mail icon"></i>Email Us</div>
+  <div class="item"><i class="home icon"></i>280 Beachwalk, Honolulu, HI 96815</div>
+  <div class="item"><i class="twitter icon"></i></div>
+  <div class="item"><i class="facebook f icon"></i></div>
+  <div class="item"><i class="instagram icon"></i></div>
+  <div class="item"><i class="pinterest icon"></i></div>
+  <div class="item"><i class="tripadvisor icon"></i></div>
+</div>
 ````
 The code almost works.  Everything is great, but for some reason it does not center the menu.  Eventually, I gave up on the ui menu feature and went with:
 
