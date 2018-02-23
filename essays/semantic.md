@@ -53,9 +53,7 @@ Anyone familiar with English could easily infer that parent div class governs th
   <div class="column">Three</div>
 </div>
 ````
-The parent div governs a centered aligned three column grid.  What I read is what I get.
-
-This is of course how we end up with 20+ competing languages and frameworks, but its a promise that my most incredulous and lazy self cannot helped be charmed by.  CSS is already confusing enough.  The real problem of course is that nothing is ever this easy.  The hard trade off with Semantic UI is learning how to behaves when you start combining it more complex ways.  
+The parent div governs a centered aligned three column grid.  What I read is what I get.  This is of course how we end up with 20+ competing languages and frameworks, but its a promise that my most incredulous and lazy self cannot helped be charmed by.  CSS is already confusing enough.  The real problem of course is that nothing is ever this easy.  The hard trade off with Semantic UI is learning how to behaves when you start combining it more complex ways.  
 
 I learned today a lesson that I will not soon forget, trying to center the bottom elements for a mock up of Hard Rock Cafe web page.  If we just read the code using natural language that eh code below should work.  
 
@@ -90,4 +88,4 @@ While the code above is even simpler, I still do not know why menu would not wor
 
 Semantic UI has a lot of promise, but its will never be as transparent as my inner-lazy-self would like.  I guess I should have expected that.  Natural language is one of the most complex parts of human civilization.  That's why we are not all poet laureates.
 
-While I thinking Semantic UI is a step in the right direction.  I think the biggest promise of Semantic UI is that it favors a natural language over abbreviations and vague keywords, which maybe chnical jargon is a 
+While I thinking Semantic UI is a step in the right direction.  I think the biggest promise of Semantic UI is that it favors a natural language over abbreviations and vague keywords.  We will probably never program in natural language, but hopefully, by having code that is easier to read because we can process parts of it through the natural language registers of my mind, then maybe one day learning 20+ languages and frameworks will be a lot easier. 
