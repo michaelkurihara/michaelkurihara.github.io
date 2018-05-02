@@ -12,6 +12,9 @@ labels:
 
 ## Patterns, patterns, everywhere. ##
 
-There are patterns all round us.  One might even say that we are surrounded by an abundance of redundancies. Much of academic life is about finding these patterns and repetitions.  Ask any biologist studying parallel and convergent evolution, nothing succeeds like success...until it doesn't.  Textual based disciplines like literary theory often take formalist approach filtering stories into genres and tropes.   
+There are patterns all round us.  One might even say that we are surrounded by an abundance of redundancies. Much of academic life is about finding these patterns and repetitions.  Ask any biologist studying parallel and convergent evolution, nothing succeeds like success...that is until it doesn't.  Textual based disciplines like literary theory often take formalist approach filtering stories into genres and tropes.  In Architecture, 
 
-we are looking for the quick fix Architecture jects with actual material substance beyond text.  , it is easy to reduce stories to into vlens of tropes.  There is a reason why we keep tellin the same stories over and over Ask any bioOne of the great advantages that architecture is that it there is an actual material-reality, whereas other discplines are largely textual.
+When the Gang of Four wrote __Design Patterns__ in 1994, they were trying to codify the repetitions in code the wild.
+
+
+
