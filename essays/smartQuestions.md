@@ -16,8 +16,7 @@ labels:
 ## Stack Overflow Is Not Your Tech Support
 
 Eric Steven Raymond's "How To Ask Questions The Smart Way" is an insightful and provocative guide on
-"how to ask questions in a way more likely to get you a satisfactory anmichaelkurihara.github.io/essays/
-swer."  Many of Mr. Raymond's suggestions can be
+"how to ask questions in a way more likely to get you a satisfactory answer."  Many of Mr. Raymond's suggestions can be
 grouped in three categories:
 - Professionalism (i.e., showing courtesy, patience, post your question to the right forum, tact, and gratitude)
 - Clarity (i.e., clearly stating your problem, what you have done so far, and what you are trying to do)
